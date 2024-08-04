@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
+    <!-- Outer rounded rectangle -->
+    <rect x="80" y="80" width="352" height="352" rx="48" ry="48" fill="none" stroke="url(#paint0_linear)"
+        stroke-linejoin="round" stroke-width="32" />
+
+    <!-- Inner rounded rectangle -->
+    <rect x="144" y="144" width="224" height="224" rx="16" ry="16" fill="none" stroke="url(#paint1_linear)"
+        stroke-linejoin="round" stroke-width="32" />
+
+    <!-- Lines -->
+    <path fill="none" stroke="url(#paint2_linear)" stroke-linecap="round" stroke-linejoin="round"
+        stroke-width="32"
+        d="M256 80V48M336 80V48M176 80V48M256 464v-32M336 464v-32M176 464v-32M432 256h32M432 336h32M432 176h32M48 256h32M48 336h32M48 176h32" />
+
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="paint0_linear" x1="80" y1="80" x2="432" y2="432" gradientUnits="userSpaceOnUse">
+            <stop offset="0.259336" stop-color="#FFDB6E" />
+            <stop offset="1" stop-color="#FFBC5E" />
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="144" y1="144" x2="368" y2="368" gradientUnits="userSpaceOnUse">
+            <stop offset="0.259336" stop-color="#FFDB6E" />
+            <stop offset="1" stop-color="#FFBC5E" />
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="48" y1="48" x2="464" y2="464" gradientUnits="userSpaceOnUse">
+            <stop offset="0.259336" stop-color="#FFDB6E" />
+            <stop offset="1" stop-color="#FFBC5E" />
+        </linearGradient>
+    </defs>
+</svg>
